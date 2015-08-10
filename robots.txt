@@ -1,4 +1,19 @@
 # robots.txt
+# Poor but never give up faith.
+# Everyone has a dream.
+# I have a dream that I have my own company making fabulous products. Everyone in the world can enjoy.
+# I have never forgotten the oath I made when I was 14.
+# Things are not what they look like. In a communist country, a 24 years-old idealist entrepreneur is
+# always being restrained and threatened. I am nobody. I just want a win-out. I do not have
+# powerful relatives working in government office. Neither rich family. I am on my own.
+# Life's unfair and I do not choose to adapt to it.
+# I respect those adventurous inventors, scientists, philosophers, entrepreneurs who contribute
+# so much to human civilization.
+# I do not want to sit somewhere saying that what a nice auto-machine but I want to design some.
+# I want be the witness of flying cars.
+# Knowledge is the thing lasting forever.
+# That's the meaning of life.
+
 User-agent: *
 Disallow:
 Disallow: /bin/
